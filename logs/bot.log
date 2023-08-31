@@ -1,3 +1,14 @@
+class LogEntry:
+    def __init__(self, timestamp, log_type, message):
+        self.timestamp = timestamp
+        self.log_type = log_type
+        self.message = message
+
+    def __repr__(self):
+        return f"[{self.timestamp}] [{self.log_type}] {self.message}"
+
+# Sample log content (you can replace this with content from any log file)
+log_content = """
 [2023-09-01 10:00:01] [INFO] Bot initialized and started.
 [2023-09-01 10:05:15] [INFO] Monitoring started for userlist: [alice, bob, charlie]
 [2023-09-01 10:10:32] [NOTIFICATION] User 'alice' has joined friend.tech.
@@ -5,3 +16,19 @@
 [2023-09-01 10:16:02] [INFO] Retry successful. Monitoring resumed.
 [2023-09-01 10:20:15] [NOTIFICATION] User 'bob' has joined friend.tech.
 [2023-09-01 11:00:01] [INFO] Bot shutdown initiated. Stopping all tasks.
+"""
+
+# Parsing the log content into a list of LogEntry objects
+log_entries = []
+
+for line in log_content.strip().split("\n"):
+    parts = line.split('] [', 2)
+    timestamp = parts[0][1:]
+    log_type = parts[1]
+    message = parts[2][:-1]
+    log_entries.append(LogEntry(timestamp, log_type, message))
+
+# Display the parsed log entries
+for entry in log_entries:
+    print(entry)
+
