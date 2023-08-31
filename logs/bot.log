@@ -1,1 +1,7 @@
-# Logs for the bot's operations 
+[2023-09-01 10:00:01] [INFO] Bot initialized and started.
+[2023-09-01 10:05:15] [INFO] Monitoring started for userlist: [alice, bob, charlie]
+[2023-09-01 10:10:32] [NOTIFICATION] User 'alice' has joined friend.tech.
+[2023-09-01 10:15:47] [ERROR] API timeout while fetching user data. Retrying in 5 seconds.
+[2023-09-01 10:16:02] [INFO] Retry successful. Monitoring resumed.
+[2023-09-01 10:20:15] [NOTIFICATION] User 'bob' has joined friend.tech.
+[2023-09-01 11:00:01] [INFO] Bot shutdown initiated. Stopping all tasks.
