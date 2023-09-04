@@ -14,10 +14,9 @@
   
   <span>┃</span>
   <a href="https://discord.com" style="margin-top: 12px;">
-    <img alt="Abhishek's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+    <img alt="Abhishek's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" style="filter: invert(33%) sepia(97%) saturate(1738%) hue-rotate(213deg) brightness(99%) contrast(104%);" />
     <code>zee#2655</code>
 </a>
-
 
   <span>┃</span>
   <a href="https://www.upwork.com/freelancers/zeeshanahmad291" style="margin-top: 12px;">
