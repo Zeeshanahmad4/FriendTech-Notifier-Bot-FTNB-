@@ -28,7 +28,7 @@
 
 <br />
 
-# Creating a markdown file with the provided Table of Contents
+Creating a markdown file with the provided Table of Contents
 toc_content = """
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -40,13 +40,6 @@ toc_content = """
 - [Troubleshooting Tips](#troubleshooting-tips-)
 - [Contribution Guidelines](#contribution-guidelines-)
 """
-
-# Saving the content to a markdown file
-file_path = "/mnt/data/table_of_contents.md"
-with open(file_path, "w") as file:
-    file.write(toc_content)
-
-file_path
 
 
 ## Project Overview 📖
