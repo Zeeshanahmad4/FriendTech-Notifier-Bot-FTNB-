@@ -30,7 +30,6 @@
 
 <br />
 
-Creating a markdown file with the provided Table of Contents
 toc_content = """
 
 
