@@ -12,10 +12,11 @@
     <code>@zeeshanahmad4</code>
   </a>
   <span>┃</span>
-  <a href="" style="margin-top: 12px;">
+  <a href="https://discord.com" style="margin-top: 12px;">
     <img alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/image/svg/discord.svg" />
     <code>zee#2655</code>
-  </a>
+</a>
+
   <span>┃</span>
   <a href="https://www.upwork.com/freelancers/zeeshanahmad291" style="margin-top: 12px;">
     <img alt="Abhishek's Discord" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
