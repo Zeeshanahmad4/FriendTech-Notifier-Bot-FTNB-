@@ -14,9 +14,10 @@
   <span> ┃ </span>
   
   <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+    <img alt="Discord" width="30px" src="https://i.imgur.com/boV0idB.png" />
     <code>zee#2655</code>
-  </a>
+</a>
+
   <span> ┃ </span>
   
   <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
