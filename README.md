@@ -2,35 +2,31 @@
 <h1 align="center">🤖 FriendTech Notifier Bot (FTNB)</h1>
 <div align="center">
   <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Abhishek Naidu | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
     <code>ahmadzee26@gmail.com</code>
   </a>
   <span> ┃ </span>
-
+  
   <a href="https://t.me/zeeshanahmad4">
-    <img alt="Abhishek's LinkedIN" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
     <code>@zeeshanahmad4</code>
   </a>
+  <span> ┃ </span>
   
-  <span>┃</span>
-  <a href="https://discord.com" style="margin-top: 12px;">
-    <img alt="Abhishek's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" style="filter: invert(33%) sepia(97%) saturate(1738%) hue-rotate(213deg) brightness(99%) contrast(104%);" />
+  <a href="https://discord.com">
+    <img alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
     <code>zee#2655</code>
-</a>
-
-  <span>┃</span>
-  <a href="https://www.upwork.com/freelancers/zeeshanahmad291" style="margin-top: 12px;">
-    <img alt="Abhishek's Discord" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
+  </a>
+  <span> ┃ </span>
+  
+  <a href="https://www.upwork.com/freelancers/zeeshanahmad291">
+    <img alt="Upwork" width="80px" src="https://github.com/Zeeshanahmad4/Zeeshanahmad4/blob/main/upwork.svg" />
     <code>Zeeshan Ahmad</code>
   </a>
   
   <br />
-  <strong>For discussion, queries and freelance work. Do reach me.👆👆👆</strong>
+  <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
-
-<br />
-
-toc_content = """
 
 
 <!-- TABLE OF CONTENTS -->
