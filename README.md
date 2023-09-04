@@ -14,7 +14,7 @@
   <span>┃</span>
   <a href="" style="margin-top: 12px;">
     <img alt="Abhishek's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-    <code>Zee#0291</code>
+    <code>zee#2655</code>
   </a>
   <span>┃</span>
   <a href="https://www.upwork.com/freelancers/zeeshanahmad291" style="margin-top: 12px;">
